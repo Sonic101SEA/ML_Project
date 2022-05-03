@@ -1,0 +1,2 @@
+accuracy = 0.775, f1 = 0.7737702334224943. precision = 0.7765169883827518, recall = 0.7729797258084883
+The best parameters are {'C': 10, 'kernel': 'rbf'}
